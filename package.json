@@ -1,0 +1,14 @@
+{
+  "name": "majid-agent",
+  "version": "1.0.0",
+  "description": "وكيل مجد - المساعد التسويقي والتجاري لمحمد",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  }
+}
